@@ -1,0 +1,30 @@
+body{
+  background: url(../images/d2.jpeg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.bg{
+   background: #fff;
+   color: black;
+   opacity: 0.4;
+   border-radius: 15px;
+}
+
+#img_logo{
+  max-width:100px;
+  max-height: 100px;
+  margin: 0 auto;
+}
+
+#login-modal .modal-dialog{
+  width: 350px;
+}
+
+#login-modal input[type=text], input[type=password]{
+  margin-top: 10px;
+}
+
+#mf{
+  height: 70px;
+  margin: auto auto;
+}
